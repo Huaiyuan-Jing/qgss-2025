@@ -194,3 +194,4 @@ cython_debug/
 .cursorindexingignoroe
 
 qgss-2025.code-workspace
+typings

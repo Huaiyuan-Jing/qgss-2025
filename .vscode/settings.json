@@ -1,0 +1,7 @@
+{
+    "python.analysis.inlayHints.callArgumentNames": "partial",
+    "python.analysis.typeEvaluation.strictDictionaryInference": true,
+    "python.analysis.typeEvaluation.strictListInference": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.analysis.typeCheckingMode": "basic"
+}
